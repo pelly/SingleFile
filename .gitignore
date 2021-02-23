@@ -1,1 +1,4 @@
-/.settings
+/.vscode/
+**/node_modules/
+**/chromedriver.exe
+**/geckodriver.exe
